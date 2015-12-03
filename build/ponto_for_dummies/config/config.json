@@ -1,0 +1,6 @@
+{
+	"cpf": "033.657.021-05",
+	"message": "Hora de registrar o ponto!",
+	"message_color": "white",
+	"api": "http://10.5.10.248:3000/ponto"
+}
